@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @latifismail
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning statistics and market analysis
+- 🌱 I’m currently learning statistics and data engineering
 - 📫 How to reach me: latifismail.id@gmail.com
 
 <!---
